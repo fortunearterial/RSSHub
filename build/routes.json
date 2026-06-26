@@ -9937,8 +9937,7 @@
       "/news": {
         "path": "/news",
         "categories": [
-          "programming",
-          "popular"
+          "programming"
         ],
         "example": "/anthropic/news",
         "parameters": {},
@@ -16192,8 +16191,7 @@
           "hyoban"
         ],
         "categories": [
-          "social-media",
-          "popular"
+          "social-media"
         ],
         "view": 3,
         "example": "/bilibili/ranking/0",
@@ -48787,7 +48785,8 @@
           "nczitzk"
         ],
         "categories": [
-          "government"
+          "government",
+          "popular"
         ],
         "radar": [
           {

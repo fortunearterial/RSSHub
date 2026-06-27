@@ -9937,7 +9937,8 @@
       "/news": {
         "path": "/news",
         "categories": [
-          "programming"
+          "programming",
+          "popular"
         ],
         "example": "/anthropic/news",
         "parameters": {},
@@ -48785,8 +48786,7 @@
           "nczitzk"
         ],
         "categories": [
-          "government",
-          "popular"
+          "government"
         ],
         "radar": [
           {
